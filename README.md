@@ -80,6 +80,7 @@ When you run the program again, it automatically loads data from students.dat.
 ID        Name                 Email               Phone          GPA
 -----------------------------------------------------------------------
 S101      Dipti Parajuli       dipti@gmail.com     9812345678     3.60
+
 S102      Rohan Sharma         rohan@mail.com      9801234567     3.20
 
 
